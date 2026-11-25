@@ -25,6 +25,7 @@ Database: **Pagila** (PostgreSQL version of Sakila). Later stages move to DuckDB
 | `s1/` | S1 · Core analytical SQL (window functions) | 1–2 |
 | `s2/` | S2 · Analytics patterns (cohorts, retention, gaps and islands) | 3–4 |
 | `s3/` | S3 · SQL for dbt models and data-quality checks | 5–6 |
+| `notes/` | Concept notes (e.g. subqueries in SELECT / FROM / WHERE) | — |
 
 ## Habits
 
